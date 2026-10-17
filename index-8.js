@@ -7,8 +7,8 @@ const axios       = require('axios');
 const crypto      = require('crypto');
 
 // ─────────────────────────────────────────────
-const TOKEN      = process.env.TOKEN    || '7696026516:AAF40dKAG6T26ywj5oVp-ad-15qofNieXlU';
-const ADMIN_ID   = process.env.ADMIN_ID || '7799994340';
+const TOKEN      = process.env.TOKEN    || '8947935753:AAE6qFZFg53Rj2VOszjNazhKoBEv_qrDg6k';
+const ADMIN_ID   = process.env.ADMIN_ID || '8294558143';
 const CHANNEL    = 'rakibfxatrading';
 const CHANNEL_LINK = 'https://t.me/rakibfxatrading';
 const FB_LINK    = 'https://www.facebook.com/profile.php?id=61595042636110';
